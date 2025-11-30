@@ -1,0 +1,8 @@
+Line 2: Missing required fields (EXPECTED: category quantity date) --- ORIGINAL INPUT: soup 12/23/2025
+Line 5: Missing required fields (EXPECTED: category quantity date) --- ORIGINAL INPUT: cereal 4/27/2027
+Line 6: Invalid Month: month out of range --- ORIGINAL INPUT: pasta 5 14/3/2027
+Line 5: Invalid Month: month out of range --- ORIGINAL INPUT: a soup 10 13/3/2027
+Line 6: Category not found in inventory: bread --- ORIGINAL INPUT: d bread 2
+Line 7: Quantity is not numeric: 1w --- ORIGINAL INPUT: a soup 1w 7/15/2026
+Line 10: Quantity is not numeric: ten --- ORIGINAL INPUT: a pasta ten 5/5/2026
+Line 12: Category not found in inventory: soup --- ORIGINAL INPUT: d soup 5

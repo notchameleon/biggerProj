@@ -1,0 +1,16 @@
+a pasta 15 6/21/2026
+c 7/1/2026
+d pasta 10
+a pasta 8 4/15/2026
+a soup 10 13/3/2027
+d bread 2
+a soup 1w 7/15/2026
+a bread 10 5/3/2026
+d bread 10
+a pasta ten 5/5/2026
+a rice 5 3/15/2026
+d soup 5
+c 6/1/2026
+d cereal 1
+a meat 20 9/1/2027
+d meat 5
